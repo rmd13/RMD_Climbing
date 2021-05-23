@@ -10,3 +10,4 @@ Fly climbing assay.
 
 % To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
+![image](https://user-images.githubusercontent.com/22294036/119248095-6dca7880-bbc1-11eb-834d-f5faab0a8523.png)
